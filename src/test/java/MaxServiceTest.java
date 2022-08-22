@@ -6,7 +6,7 @@ public class MaxServiceTest {
     public void shouldFindMax() {
         MaxService service = new MaxService();
 
-        int a = 5;
+        int a = 2;
         int b = 3;
 
         int expected = a;
